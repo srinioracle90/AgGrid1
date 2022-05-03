@@ -8,5 +8,5 @@ const routes: Routes = [];
   exports: [RouterModule]
 })
 export class AppRoutingModule { 
-int i =10;
+string deleteproc = 'bye';
 }
