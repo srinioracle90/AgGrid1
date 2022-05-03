@@ -8,5 +8,5 @@ const routes: Routes = [];
   exports: [RouterModule]
 })
 export class AppRoutingModule { 
-string createproc = 'hi';
+string createproc = 'hi hello';
 }
