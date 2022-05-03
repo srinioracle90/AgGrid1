@@ -8,5 +8,5 @@ const routes: Routes = [];
   exports: [RouterModule]
 })
 export class AppRoutingModule { 
-int i =0;
+int i =10;
 }
