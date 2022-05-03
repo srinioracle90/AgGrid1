@@ -7,5 +7,7 @@ const routes: Routes = [];
   exports: [RouterModule]
 })
 export class AppRoutingModule { 
+string deleteproc = 'bye';
+string createproc = 'hi hello';
 string updateproc = 'tata';
 }
