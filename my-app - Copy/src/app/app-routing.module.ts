@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-
 const routes: Routes = [];
 
 @NgModule({
@@ -10,4 +9,5 @@ const routes: Routes = [];
 export class AppRoutingModule { 
 string deleteproc = 'bye';
 string createproc = 'hi hello';
+string updateproc = 'tata';
 }
