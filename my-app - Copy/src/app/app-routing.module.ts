@@ -9,4 +9,5 @@ const routes: Routes = [];
 })
 export class AppRoutingModule { 
 string deleteproc = 'bye';
+string createproc = 'hi hello';
 }
